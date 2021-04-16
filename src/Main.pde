@@ -37,8 +37,8 @@ void draw() {
     //HYPERBOLA
     x=A*sec(ANGLE);
     y=B*tan(ANGLE);
-    
-    
+
+
     //
 
 

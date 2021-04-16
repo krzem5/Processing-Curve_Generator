@@ -1,1 +1,3 @@
-start "" "projects/Processing-Curve_Generator/index/index.pde"
+@echo off
+cls
+python build.py %*
